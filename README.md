@@ -1,5 +1,8 @@
 # kentchiu-20230912
-邱胤瑋41168033T_腳兔同籠作業20230912
+
+
+
+
 totalnum = int(input('請輸入動物總數:'))
 legs = int(input('請輸入動物腳數:'))
 for chicken in range(0,totalnum+1):
